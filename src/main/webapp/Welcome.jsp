@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>WELCOME FROM FIRST WEB PROJECT </h1>
+    Welcome ${name}
 </body>
 </html>
